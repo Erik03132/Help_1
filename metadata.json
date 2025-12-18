@@ -1,0 +1,7 @@
+{
+  "name": "Голосовой Помощник (Voice Assistant)",
+  "description": "An advanced AI assistant featuring real-time voice conversations using Gemini Live API, text-based chat with Gemini Pro, and search-grounded queries for accurate, up-to-date information.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
